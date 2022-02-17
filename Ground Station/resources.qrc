@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="source">
+    <file>compassIndicator.png</file>
+    <file>blankcircle.png</file>
+    <file>back.jpg</file>
+    <file>aves_icon.png</file>
+    <file>aves.png</file>
+    <file>baslik.png</file>
+    <file>gebze-teknik-universitesi-gtu-seeklogo.com.png</file>
+    <file>huk_logo.png</file>
+    <file>airspeed.png</file>
+    <file>Altimeter.png</file>
+    <file>arrow.png</file>
+    <file>arrow_small.png</file>
+    <file>attitudebank.png</file>
+    <file>attitude indicator.png</file>
+    <file>attitudeout.png</file>
+    <file>BankAngle.png</file>
+    <file>Bankangle dot.png</file>
+    <file>BankAngleDrone.png</file>
+    <file>Compass.png</file>
+    <file>Vertical Speed.png</file>
+  </qresource>
+</RCC>
